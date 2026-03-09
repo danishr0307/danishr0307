@@ -1,7 +1,11 @@
 # 💫 About Me:
-Hi there! I’m Danish Raza — a passionate Front-end Developer from Mumbai, Maharashtra. I love building beautiful, responsive, and intuitive web applications that solve real problems.
+Hi there! I’m Danish Raza — a passionate Front-end Developer from Mumbai, Maharashtra. 
+I love building beautiful, responsive, and intuitive web applications that solve real problems.
+
 💻 I enjoy working with modern web technologies, turning creative designs into real code, and continuously learning new tools and frameworks to level up my skills.
+
 🔭 I’m currently exploring and building projects using React, JavaScript, HTML & CSS, and other front-end ecosystems.
+
 🌱 Always curious, always improving — I love finding elegant solutions and writing clean, maintainable code.
 
 # 💻 Tech Stack:
