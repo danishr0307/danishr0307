@@ -1,5 +1,4 @@
 # 💫 About Me:
-I currently work at fidelity<br>I am master<br>I study master
 
 
 # 💻 Tech Stack:
